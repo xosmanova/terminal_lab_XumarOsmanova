@@ -1,5 +1,5 @@
 #Sexsi Terminal Laboratoriyasi
-Muellif : Xumar Osmanova, Qrup:5094-a2, Ixtisas:Komputer elmleri
+Muellif : Xumar Osmanova, Qrup:5094-a2, Ixtisas:Komputer elmleri,Kurs:3
 
 ##Qovluqlar 
 -haqqimda: men haqqimda melumat
