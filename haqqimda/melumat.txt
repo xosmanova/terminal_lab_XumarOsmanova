@@ -1,0 +1,12 @@
+Ad : Xumar
+Soyad: Osmanova
+Qrup: 5094-a2
+Fakulte: Informasiya ve komputer texnologiyalari fakulte
+Seher: Xirdalan
+Sevdiyim fenn: Emeliyyat sistemleri
+Sevdiyim emeliyyat sistemi: Linux
+Hobbi: Tennis oynamaq
+Sevdiyim musiqi: classic music
+Arzum: istediyim ugurlara nail olmaq
+Dil: Azerbaycan,Ingilis,Ispan
+Tarix: 21.11.2026
